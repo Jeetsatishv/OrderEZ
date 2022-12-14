@@ -11,21 +11,18 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="0dp"
         tools:context=".homepage.Homepage_Items">
 
         <TextView
             android:id="@+id/itemList_MyItemTV"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="5dp"
             android:fontFamily="@font/poppins_regular"
             android:gravity="center"
             android:text="My Item List"
             android:textColor="@color/medblue"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -49,7 +46,6 @@
             android:id="@+id/itemList"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_marginTop="10dp"
             app:layout_constraintBottom_toTopOf="@id/item_menubar"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -60,12 +56,12 @@
             android:id="@+id/expFirst"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_regular"
             android:gravity="center"
             android:hint="exp_first"
             android:textColor="@color/lightblue"
-            android:fontFamily="@font/poppins_regular"
             android:textColorHint="@color/lightblue"
-            android:textSize="20sp"
+            android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
@@ -90,7 +86,7 @@
             android:layout_margin="20dp"
             android:background="@drawable/rounded_corner"
             android:text="Generate Recipes"
-            android:textSize="18dp"
+            android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/expFirst" />
@@ -100,6 +96,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:menu="@menu/menu_list" />
 
