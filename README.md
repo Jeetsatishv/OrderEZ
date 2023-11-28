@@ -1,8 +1,8 @@
-RecipEZ
+# RecipEZ
 
 
 
-**Our App**. 
+## Our App 
 
 Introducing the ultimate recipe app for home cooks!  
 
@@ -10,7 +10,7 @@ With RecipEZ, you can easily find delicious recipes based on the ingredients you
 
 Whether you're a beginner in the kitchen or a seasoned home cook, our app has something for everyone. Download now and start cooking with confidence!
 
-**Attributes**. 
+## Attributes 
 
 
 
