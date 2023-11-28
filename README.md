@@ -1,4 +1,4 @@
-# ~~OrderEZ~~ -> RecipEZ
+RecipEZ
 
 
 
@@ -12,13 +12,8 @@ Whether you're a beginner in the kitchen or a seasoned home cook, our app has so
 
 **Attributes**. 
 
-App icon: created by @freepix, modified by Lauren Pearson  
-
-Logo created by Lauren Pearson
 
 
-App Developed By: Seungwon Burm, Yuchan Kim, Jeetkumar Vijaywargi, Lauren Pearson
+App Developed By:Jeetkumar Vijaywargi, Lauren Pearson, Seungwon Burm, Yuchan Kim, 
 
 Google Play Store Link: https://play.google.com/store/apps/details?id=com.recipez 
-
-(App is Under Review)
