@@ -14,6 +14,6 @@ Whether you're a beginner in the kitchen or a seasoned home cook, our app has so
 
 
 
-App Developed By:Jeetkumar Vijaywargi, Lauren Pearson, Seungwon Burm, Yuchan Kim, 
+App Developed By: Jeetkumar Vijaywargi, Lauren Pearson, Seungwon Burm, Yuchan Kim, 
 
 Google Play Store Link: https://play.google.com/store/apps/details?id=com.recipez 
